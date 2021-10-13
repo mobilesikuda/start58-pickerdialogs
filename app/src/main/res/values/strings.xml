@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">start58-dialogs</string>
+    <string name="set_time">Set time now</string>
+    <string name="set_date">Set date now</string>
+</resources>
